@@ -20,3 +20,12 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michaelchern/michaelchern/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/michaelchern/michaelchern/output/github-contribution-grid-snake.svg">
 </picture>
+
+### ⭐️ &nbsp;Github Star
+
+<div style="width:100%;display:flex;justify-contens:space-betweem">
+      <img width="550px" height="230px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=michaelchern&count_private=true&show_icons=true"/>
+</div>
+
+### 🛳 &nbsp;Your ticket ID for this visit
+<img src="https://profile-counter.glitch.me/michaelchern/count.svg" />
