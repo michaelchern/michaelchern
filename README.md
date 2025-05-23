@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 <!--
-**michaelchern/michaelchern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,17 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🌱 I’m currently learning Unity/UE4/C#/C++/Anything About GameDevelopment
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelchern\&rank_icon=github)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchern&layout=compact&hide=html,c&theme=flag-india)](https://github.com/michaelchern)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelchern/michaelchern/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michaelchern/michaelchern/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/michaelchern/michaelchern/output/github-contribution-grid-snake.svg">
 </picture>
-
-### ⭐️ &nbsp;Github Star
-
-<div style="width:100%;display:flex;justify-contens:space-betweem">
-      <img width="550px" height="230px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=michaelchern&count_private=true&show_icons=true"/>
-</div>
-
-### 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://profile-counter.glitch.me/michaelchern/count.svg" />
