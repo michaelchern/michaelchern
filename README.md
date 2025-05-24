@@ -1,20 +1,5 @@
 ## Hi there 👋
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 🌱 I’m a game developer from China.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelchern/michaelchern/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michaelchern/michaelchern/output/github-contribution-grid-snake.svg">
@@ -22,7 +7,7 @@ Here are some ideas to get you started:
 </picture>
 
 ### ⭐️ &nbsp;Github Star
-<a align="center" href="https://0-rpg.com/">
+<a align="center" href="https://michaelchern.github.io/">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=michaelchern&hide=html&hide_title=true&layout=compact&" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchern&hide=html&hide_title=true&layout=compact&langs_count=6" />
 </a>
