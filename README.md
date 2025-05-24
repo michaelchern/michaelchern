@@ -2,7 +2,7 @@
 
 🌱 I’m a game developer from China.
 
-<picture>
+<picture height="300px">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelchern/michaelchern/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michaelchern/michaelchern/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/michaelchern/michaelchern/output/github-contribution-grid-snake.svg">
@@ -11,7 +11,7 @@
 ### ⭐️ &nbsp;Github Star
 <a align="center" href="https://michaelchern.github.io/">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=michaelchern&hide=html&hide_title=true&layout=compact&" />
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchern&hide=html&hide_title=true&layout=compact&langs_count=6" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchern&hide=html&hide_title=true&layout=compact&langs_count=6" />
 </a>
 
 ### 🛠 &nbsp;Tech Stack
