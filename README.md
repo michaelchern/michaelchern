@@ -10,8 +10,8 @@
 
 ### ⭐️ &nbsp;Github Star
 <a align="center" href="https://michaelchern.github.io/">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=michaelchern&hide=html&hide_title=true&layout=compact&" />
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchern&hide=html&hide_title=true&layout=compact&langs_count=6" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=michaelchern&hide=html&hide_title=true&layout=compact&" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchern&hide=html&hide_title=true&layout=compact&langs_count=6" />
 </a>
 
 ### 🛠 &nbsp;Tech Stack
