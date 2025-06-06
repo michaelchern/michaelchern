@@ -1,4 +1,4 @@
-### 👋 &nbsp;Hi there 
+### 👋 &nbsp;Hi There!
 🌱 I’m a game developer from China.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelchern/michaelchern/output/github-contribution-grid-snake-dark.svg">
