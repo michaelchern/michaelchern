@@ -5,12 +5,12 @@
 <img align="right" src="https://github.com/michaelchern/michaelchern/blob/main/20250621125320.webp" width="256px">
 
 - 🙊 Blog: 
-- zhihu
-- Bili
+- <img src="https://simpleicons.org/icons/zhihu.svg" width="16" height="16" alt="Zhihu"> [知乎](https://www.zhihu.com/)
+- <img src="https://simpleicons.org/icons/bilibili.svg" width="16" height="16" alt="Bilibili"> [B站](https://www.bilibili.com/)
 - 📫 Email: 
 - 🐶 Wechat: 
 
-- 游戏客户端萌新 | 图形学菜鸡 | 机器学习爱好者
+- 🎮 游戏客户端萌新 | 🖥️ 图形学菜鸡 | 🤖 机器学习爱好者
 
 
 
