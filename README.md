@@ -6,7 +6,7 @@
 
 | | | |
 |-|-|-|
-| <img src="https://github.com/michaelchern/michaelchern/blob/main/hexo.svg" width="24" height="24" alt="Blog"> | My Blog | [Meeting Socrates](https://michaelchern.github.io/) |
+| <img src="https://github.com/michaelchern/michaelchern/blob/main/hexo.svg" width="24" height="24" alt="Blog"> | **My Blog** | [Meeting Socrates](https://michaelchern.github.io/) |
 
 
 
