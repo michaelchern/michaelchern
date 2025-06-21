@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github.com/michaelchern/michaelchern/blob/main/20250621125320.webp" width="256px">
 
-- <img src="https://github.com/michaelchern/michaelchern/blob/main/hexo.svg" width="24" height="24" alt="Blog" style="vertical-align: bottom;"> Blog: [Meeting Socrates](https://michaelchern.github.io/)
+- <img src="https://github.com/michaelchern/michaelchern/blob/main/hexo.svg" width="24" height="24" alt="Blog"> Blog: [Meeting Socrates](https://michaelchern.github.io/)
 
 
 
