@@ -12,7 +12,7 @@
 
 - 🎮 游戏客户端萌新 | 🖥️ 图形学菜鸡 | 🤖 机器学习爱好者
 
-- <img src="https://simpleicons.org/icons/zhihu.svg" width="16" height="16" alt="知乎" style="vertical-align: middle;"> [知乎](https://www.zhihu.com/people/your_profile)  
+- <img src="https://simpleicons.org/icons/zhihu.svg" width="24" height="24" alt="知乎" style="vertical-align: middle;"> [知乎](https://www.zhihu.com/people/your_profile)  
 - <img src="https://simpleicons.org/icons/bilibili.svg" width="16" height="16" alt="B站" style="vertical-align: middle;"> [B站](https://space.bilibili.com/your_id)  
 - <img src="https://simpleicons.org/icons/gmail.svg" width="16" height="16" alt="Email" style="vertical-align: middle;"> [your@email.com](mailto:your@email.com)  
 - <img src="https://simpleicons.org/icons/wechat.svg" width="16" height="16" alt="微信" style="vertical-align: middle;"> your_wechat_id  
