@@ -4,22 +4,14 @@
 
 <img align="right" src="https://github.com/michaelchern/michaelchern/blob/main/20250621125320.webp" width="256px">
 
-- 🙊 Blog: 
-- <img src="https://simpleicons.org/icons/zhihu.svg" width="16" height="16" alt="Zhihu"> [知乎](https://www.zhihu.com/)
-- <img src="https://simpleicons.org/icons/bilibili.svg" width="16" height="16" alt="Bilibili"> [B站](https://www.bilibili.com/)
-- 📫 Email: 
-- 🐶 Wechat: 
+- <img src="https://simpleicons.org/icons/blogger.svg" width="16" height="16" alt="Blog"> Blog: [Meeting Socrates](https://michaelchern.github.io/)
+- <img src="https://simpleicons.org/icons/zhihu.svg" width="16" height="16" alt="Zhihu"> Zhihu: [Meeting Socrates](https://www.zhihu.com/people/meet-3-14)
+- <img src="https://simpleicons.org/icons/bilibili.svg" width="16" height="16" alt="Bilibili"> Bilibili: [亚里士多Gua](https://space.bilibili.com/207318305)
+- <img src="https://simpleicons.org/icons/blogger.svg" width="16" height="16" alt="Blog"> Blog: [Meeting Socrates](https://michaelchern.github.io/)
+- <img src="https://simpleicons.org/icons/gmail.svg" width="16" height="16" alt="Email"> Email: `chunel@foxmail.com`
+- <img src="https://simpleicons.org/icons/wechat.svg" width="16" height="16" alt="Wechat"> Wechat: Pi-Code
 
-- 🎮 游戏客户端萌新 | 🖥️ 图形学菜鸡 | 🤖 机器学习爱好者
-
-- <img src="https://simpleicons.org/icons/zhihu.svg" width="24" height="24" alt="知乎" style="vertical-align: middle;"> [知乎](https://www.zhihu.com/people/your_profile)  
-- <img src="https://simpleicons.org/icons/bilibili.svg" width="16" height="16" alt="B站" style="vertical-align: middle;"> [B站](https://space.bilibili.com/your_id)  
-- <img src="https://simpleicons.org/icons/gmail.svg" width="16" height="16" alt="Email" style="vertical-align: middle;"> [your@email.com](mailto:your@email.com)  
-- <img src="https://simpleicons.org/icons/wechat.svg" width="16" height="16" alt="微信" style="vertical-align: middle;"> your_wechat_id  
-
-- <img src="https://simpleicons.org/icons/unity.svg" width="16" height="16" alt="Unity" style="vertical-align: middle;"> 游戏客户端开发（新人）  
-- <img src="https://simpleicons.org/icons/opengl.svg" width="16" height="16" alt="OpenGL" style="vertical-align: middle;"> 图形学爱好者  
-- <img src="https://simpleicons.org/icons/tensorflow.svg" width="16" height="16" alt="TensorFlow" style="vertical-align: middle;"> 机器学习探索者  
+- <img src="https://simpleicons.org/icons/unrealengine.svg" width="16" height="16" alt="UE"> 游戏客户端萌新 | <img src="https://simpleicons.org/icons/vulkan.svg" width="16" height="16" alt="Vulkan"> 图形学菜鸡 | <img src="https://simpleicons.org/icons/tensorflow.svg" width="16" height="16" alt="TensorFlow"> 机器学习爱好者
 
 
 
