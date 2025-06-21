@@ -4,11 +4,14 @@
 
 <img align="right" src="https://github.com/michaelchern/michaelchern/blob/main/20250621125320.webp" width="256px">
 
-|                                                                                                                       |                 |                                                            |
-| --------------------------------------------------------------------------------------------------------------------- | --------------- | ---------------------------------------------------------- |
-| <img src="https://github.com/michaelchern/michaelchern/blob/main/hexo.svg" width="24" height="24" alt="Blog">         | **My Blog**     | [Meeting Socrates](https://michaelchern.github.io/)        |
-| <img src="https://github.com/michaelchern/michaelchern/blob/main/zhihu.svg" width="24" height="24" alt="Zhihu">       | **My Zhihu**    | [Meeting Socrates](https://www.zhihu.com/people/meet-3-14) |
-| <img src="https://github.com/michaelchern/michaelchern/blob/main/Bilibili.svg" width="24" height="24" alt="Bilibili"> | **My Bilibili** | [亚里士多Gua](https://space.bilibili.com/207318305)        |
+|                                                                                                                                   |                    |                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------------------------------------------------- |
+| <img src="https://github.com/michaelchern/michaelchern/blob/main/hexo.svg" width="24" height="24" alt="Blog">                     | **My Blog**        | [Meeting Socrates](https://michaelchern.github.io/)        |
+| <img src="https://github.com/michaelchern/michaelchern/blob/main/zhihu.svg" width="24" height="24" alt="Zhihu">                   | **My Zhihu**       | [Meeting Socrates](https://www.zhihu.com/people/meet-3-14) |
+| <img src="https://github.com/michaelchern/michaelchern/blob/main/Bilibili.svg" width="24" height="24" alt="Bilibili">             | **My Bilibili**    | [亚里士多Gua](https://space.bilibili.com/207318305)        |
+| <img src="https://github.com/michaelchern/michaelchern/blob/main/PublicAccounts.svg" width="24" height="24" alt="PublicAccounts"> | **Public Account** | `MeetSocrates`                                             |
+| <img src="https://github.com/michaelchern/michaelchern/blob/main/Gmail.svg" width="24" height="24" alt="Email">                   | **My Email**       | `michaelchern@foxmail.com`                                 |
+| <img src="https://github.com/michaelchern/michaelchern/blob/main/wechat.svg" width="24" height="24" alt="Wechat">                 | **My Wechat**      | `Pi-Code`                                                  |
 
 
 
