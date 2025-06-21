@@ -7,8 +7,8 @@
 - <img src="https://simpleicons.org/icons/blogger.svg" width="16" height="16" alt="Blog"> Blog: [Meeting Socrates](https://michaelchern.github.io/)
 - <img src="https://simpleicons.org/icons/zhihu.svg" width="16" height="16" alt="Zhihu"> Zhihu: [Meeting Socrates](https://www.zhihu.com/people/meet-3-14)
 - <img src="https://simpleicons.org/icons/bilibili.svg" width="16" height="16" alt="Bilibili"> Bilibili: [亚里士多Gua](https://space.bilibili.com/207318305)
-- <img src="https://simpleicons.org/icons/blogger.svg" width="16" height="16" alt="Blog"> Blog: [Meeting Socrates](https://michaelchern.github.io/)
-- <img src="https://simpleicons.org/icons/gmail.svg" width="16" height="16" alt="Email"> Email: `chunel@foxmail.com`
+- <img src="https://simpleicons.org/icons/blogger.svg" width="24" height="24" alt="Blog"> Blog: [Meeting Socrates](https://michaelchern.github.io/)
+- <img src="https://simpleicons.org/icons/gmail.svg" width="24" height="24" alt="Email"> Email: `chunel@foxmail.com`
 - <img src="https://simpleicons.org/icons/wechat.svg" width="16" height="16" alt="Wechat"> Wechat: Pi-Code
 
 - <img src="https://simpleicons.org/icons/unrealengine.svg" width="16" height="16" alt="UE"> 游戏客户端萌新 | <img src="https://simpleicons.org/icons/vulkan.svg" width="16" height="16" alt="Vulkan"> 图形学菜鸡 | <img src="https://simpleicons.org/icons/tensorflow.svg" width="16" height="16" alt="TensorFlow"> 机器学习爱好者
