@@ -2,14 +2,17 @@
 
 ----
 
-<img align="right" src="https://github.com/ChunelFeng/CGraph/blob/main/doc/image/CGraph%20Author.jpg" width="256px">
+<img align="right" src="https://github.com/michaelchern/michaelchern/blob/main/20250621125320.webp" width="256px">
 
 - 🙊 Blog: 
 - zhihu
 - Bili
 - 📫 Email: 
 - 🐶 Wechat: 
+
 - 游戏客户端萌新 | 图形学菜鸡 | 机器学习爱好者
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelchern/michaelchern/output/github-contribution-grid-snake-dark.svg">
