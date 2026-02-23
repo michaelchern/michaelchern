@@ -3,7 +3,7 @@ name: Generate GitHub Stats
 on:
   schedule:
     - cron: "0 0 * * *" # 每天午夜运行一次
-  workflow_dispatch:    # 允许你手动点击运行按钮
+  workflow_dispatch:    # 允许你在 Actions 面板手动点击运行
 
 jobs:
   generate-stats:
@@ -12,19 +12,37 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 使用社区推荐的 Action 生成图片
-      - name: Generate GitHub Stats Cards
+      # 生成第一张图：基础统计卡片
+      - name: Generate Stats Card
         uses: stats-organization/github-readme-stats-action@main
         with:
           token: ${{ secrets.GH_TOKEN }}
-          # 你可以在这里自定义参数，比如主题色、隐藏某些语言等
-          # theme: "radical"
+          username: talesofwing
+          # 完美复刻你原本的参数
+          hide: html
+          hide_title: true
+          layout: compact
+          # 指定输出的文件名
+          output_file: stats.svg 
 
+      # 生成第二张图：常用语言卡片
+      - name: Generate Top Langs Card
+        uses: stats-organization/github-readme-stats-action@main
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          action_type: top-langs # 告诉插件生成语言卡片
+          username: talesofwing
+          hide: html
+          hide_title: true
+          layout: compact
+          langs_count: 6
+          output_file: langs.svg
+
+      # 把生成的图片提交到你的仓库里
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add .
-          # 如果没有变化就不会报错
+          git add stats.svg langs.svg
           git commit -m "Auto-update GitHub stats" || echo "No changes to commit"
           git push
