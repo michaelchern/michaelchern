@@ -1,0 +1,42 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch:    
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 生成基础统计卡片
+      - name: Generate Stats Card
+        uses: stats-organization/github-readme-stats-action@main
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          card: stats
+          options: username=michaelchern&hide=html&hide_title=true&layout=compact&theme=dark&bg_color=000000&border_color=333333
+          path: stats.svg 
+
+      # 生成常用语言卡片
+      - name: Generate Top Langs Card
+        uses: stats-organization/github-readme-stats-action@main
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          card: top-langs
+          options: username=michaelchern&hide=html&hide_title=true&layout=compact&langs_count=6&theme=dark&bg_color=000000&border_color=333333
+          path: langs.svg
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add stats.svg langs.svg
+          git commit -m "Auto-update GitHub stats" || echo "No changes to commit"
+          git push
