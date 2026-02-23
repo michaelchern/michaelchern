@@ -17,7 +17,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@main
         with:
           token: ${{ secrets.GH_TOKEN }}
-          username: talesofwing
+          username: michaelchern
           # 完美复刻你原本的参数
           hide: html
           hide_title: true
@@ -31,7 +31,7 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
           action_type: top-langs # 告诉插件生成语言卡片
-          username: talesofwing
+          username: michaelchern
           hide: html
           hide_title: true
           layout: compact
