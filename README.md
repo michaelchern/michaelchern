@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 Michael. Exploring the intersection of Graphics and AI, with a growing focus on high-performance rendering and deep learning.
 
