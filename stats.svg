@@ -141,7 +141,7 @@
       <text class="stat  bold"  y="12.5">Total Stars Earned:</text>
       <text
         class="stat  bold"
-        x="199.01"
+        x="204.01"
         y="12.5"
         data-testid="stars"
       >1</text>
@@ -152,7 +152,7 @@
       <text class="stat  bold"  y="12.5">Total Commits (last year):</text>
       <text
         class="stat  bold"
-        x="199.01"
+        x="204.01"
         y="12.5"
         data-testid="commits"
       >479</text>
@@ -163,7 +163,7 @@
       <text class="stat  bold"  y="12.5">Total PRs:</text>
       <text
         class="stat  bold"
-        x="199.01"
+        x="204.01"
         y="12.5"
         data-testid="prs"
       >10</text>
@@ -174,7 +174,7 @@
       <text class="stat  bold"  y="12.5">Total Issues:</text>
       <text
         class="stat  bold"
-        x="199.01"
+        x="204.01"
         y="12.5"
         data-testid="issues"
       >0</text>
@@ -185,7 +185,7 @@
       <text class="stat  bold"  y="12.5">Contributed to (last year):</text>
       <text
         class="stat  bold"
-        x="199.01"
+        x="204.01"
         y="12.5"
         data-testid="contribs"
       >5</text>
