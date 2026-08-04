@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Michael. Exploring the intersection of Graphics and AI, with a growing focus on high-performance rendering and deep learning.
+Graphics and AI — the two things I keep coming back to.
 
 ---
 
